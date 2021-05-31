@@ -1,0 +1,50 @@
+$backgroundColor: #ffffff;
+$bodyColor: #404040;
+$bodyFont: 'Lato', sans-serif ,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  border-bottom: 20px solid lightgrey;
+}
+
+p, li {
+  font-family: 'Newsreader', serif;
+}
+
+nav a {
+  color: $bodyColor;
+  text-decoration: none;
+  // TODO: put into right directory
+}
+
+.container {
+  max-width: 1140px;
+}
+
+.container-fluid {
+  background-image: url("https://raw.githubusercontent.com/adrianfocke/dermannderverwoehnt/gh-pages/assets/images/portrait.jpeg");
+  height: 40vh;
+  background-position: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  background-color: transparent;
+  padding-margin: 3vh;
+  padding-bottom: 3vh;
+}
+
+h2 {
+  margin-bottom: 5vh;
+}
+
+.margin-bottom {
+  margin-bottom: 120px;
+}
