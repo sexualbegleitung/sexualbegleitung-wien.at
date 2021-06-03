@@ -6,4 +6,4 @@ published: true
 
 # Impressum
 
-Hier ist ein leeres Impressum.
+Hier ist ein leeres Impressum. Bald folgt mehr Info!
