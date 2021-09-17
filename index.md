@@ -14,7 +14,7 @@ Ich widme mich dieser verantwortungsvollen Tätigkeit und sehe es als meine Aufg
 _Ich bin Deine Ansprechperson für alle Fragen, im Zusammenhang mit Sexualität, Intimität und Partnerschaft!_
 
 ***
-## Und wie läuft das ab?
+## Wie läuft das ab?
 ***
 Im Vorfeld des ersten Treffens besprechen wir deine Wünsche und Erwartungen, aber auch Einschränkungen, Vorerkrankungen und Abneigungen, sofern das möglich ist.
 Wenn Gespräche nicht möglich sind, werden wir deine Vorlieben gemeinsam herausfinden.
