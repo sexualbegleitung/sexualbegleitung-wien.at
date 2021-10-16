@@ -54,4 +54,4 @@ Meine Dienste können in jedem Bundesland, in dem es erlaubt ist, in Anspruch ge
 
 ***
 
-[Jetzt kontaktieren](mailto:sexualbegleitung-wien@tutamail.com "Anfrage per E-Mail")
+[Jetzt kontaktieren](mailto:kontakt@sexualbegleitung.wien "Anfrage per E-Mail")
