@@ -28,12 +28,7 @@ nav a {
   background-image: url("https://raw.githubusercontent.com/sexualbegleitung/sexualbegleitung-wien.at/gh-pages/assets/images/hero.png");
   height: 40vh;
   background-position: center;
-}
-
-@media only screen and (max-width: 600px) {
-  .container-fluid {
-    background-size: cover;
-  }
+  background-size: cover;
 }
 
 img {
