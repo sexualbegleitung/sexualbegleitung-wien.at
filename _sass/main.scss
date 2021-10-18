@@ -30,6 +30,12 @@ nav a {
   background-position: center;
 }
 
+@media only screen and (max-width: 600px) {
+  .container-fluid {
+    background-size: cover;
+  }
+}
+
 img {
   max-width: 100%;
   height: auto;
