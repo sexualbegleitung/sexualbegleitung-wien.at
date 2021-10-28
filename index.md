@@ -40,9 +40,7 @@ Zuletzt hab ich den Lehrgang „Sexualassistenz - Sexualbegleitung“ der Volksh
 ## Kosten
 ***
 
-Die Kosten für die erste Stunde belaufen sich auf € 160,-. Bei Buchung mehrerer Stunden werden die rabattierten Preise individuell vereinbart.
-
-Die Fahrtkosten betragen im Kerngebiet Wien pauschal € 25,-
+Die Kosten für die erste Stunde belaufen sich auf € 185,- und inkludieren damit pauschaliert 2 Std Wegzeit für Hin- und Rückfahrt. Bei Buchung mehrerer Stunden werden die Preise individuell vereinbart.
 
 ***
 ## An wen richtet sich mein Angebot?
