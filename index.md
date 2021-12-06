@@ -52,4 +52,8 @@ Meine Dienste können in jedem Bundesland, in dem es erlaubt ist, in Anspruch ge
 
 ***
 
-[Jetzt kontaktieren](mailto:kontakt@sexualbegleitung.wien "Anfrage per E-Mail")
+[Jetzt via E-Mail kontaktieren](mailto:karlie@sexualbegleitung.wien "Anfrage via E-Mail")
+[Jetzt via Anruf kontaktieren](tel:00436604996566 "Anfrage via Anruf")
+
+
+
