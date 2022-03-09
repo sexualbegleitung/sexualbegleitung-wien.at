@@ -35,6 +35,10 @@ nav a {
   body {
     background-size: contain;
   }
+  .container-fluid {
+  min-height: 55vh;
+  max-width: 1140px;
+}
 }
 
 img {
