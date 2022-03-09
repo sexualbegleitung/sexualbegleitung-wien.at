@@ -36,7 +36,8 @@ nav a {
     background-size: contain;
   }
   .container-fluid {
-  min-height: 55vh;
+  border: 1px solid red;
+  min-height: 55vh !important;
   max-width: 1140px;
 }
 }
